@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 2000px;
+  margin: 0 auto;
+}
+
+input,
+button {
+  padding: 8px;
+  font-size: 16px;
+}
